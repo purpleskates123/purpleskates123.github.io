@@ -11,7 +11,7 @@ One of the strongest skill sets I bring to any team is effective communicationðŸ
 
 One of my biggest goals is to learn how to effectively use open source for my own benefit. I am willing to step out of my comfort zone and expand my knowledge. Right now I am focusing on improving my knowledge and practical use of open source tools and platforms. I'm looking forward to the journey ahead and can't wait to connect, learn, and grow with my team! ðŸª„
 
-![_Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.yml] ({{ site.baseurl}}/images/Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.png)
+![_Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.yml]({{ site.baseurl }}/images/Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.png)
 
 Kaylee Williams
 
