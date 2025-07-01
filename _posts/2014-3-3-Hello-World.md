@@ -11,9 +11,9 @@ One of the strongest skill sets I bring to any team is effective communicationðŸ
 
 One of my biggest goals is to learn how to effectively use open source for my own benefit. I am willing to step out of my comfort zone and expand my knowledge. Right now I am focusing on improving my knowledge and practical use of open source tools and platforms. I'm looking forward to the journey ahead and can't wait to connect, learn, and grow with my team! ðŸª„
 
+![_Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.yml] ({{ site.baseurl}}/images/Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.png)
+
 Kaylee Williams
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/216603447?s=400&u=44f0bfeb3aeb62c4b8a5d02d704103f24d4b1ead&v=4 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
