@@ -11,9 +11,13 @@ One of the strongest skill sets I bring to any team is effective communicationðŸ
 
 One of my biggest goals is to learn how to effectively use open source for my own benefit. I am willing to step out of my comfort zone and expand my knowledge. Right now I am focusing on improving my knowledge and practical use of open source tools and platforms. I'm looking forward to the journey ahead and can't wait to connect, learn, and grow with my team! ðŸª„
 
+
+P.S. Kaylee Williams, 
+A Southern University Scholar
+
 ![_Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.yml]({{ site.baseurl }}/images/Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.png)
 
-Kaylee Williams
 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
