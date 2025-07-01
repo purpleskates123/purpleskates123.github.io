@@ -13,6 +13,7 @@ One of my biggest goals is to learn how to effectively use open source for my ow
 
 Kaylee Williams
 
-
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars.githubusercontent.com/u/216603447?s=400&u=44f0bfeb3aeb62c4b8a5d02d704103f24d4b1ead&v=4 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
