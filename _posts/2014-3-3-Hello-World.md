@@ -17,7 +17,7 @@ A Southern University Scholar
 
 ![_Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.yml]({{ site.baseurl }}/images/Human-Jukebox-Southern-University-Marching-Band-Baton-Rouge-Louisiana.png)
 
-https://www.subr.edu
+school link:https://www.subr.edu
 
 
 
