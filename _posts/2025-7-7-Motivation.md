@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motivation 
+title: Motivation
 ---
 
 One challenge I deeply want to impact in my lifetime is increasing the number of minority kids who pursue careers in technology. I want to inspire them by showing not only that tech is for them, but also the powerful benefits it offers—financial stability, creativity, innovation, and the opportunity to shape the future. 
