@@ -7,7 +7,7 @@ This week in lab, I explored the OpenSSF Scorecard project, a tool developed by 
 
 The project is hosted on GitHub and has contributions from a wide range of developers, including engineers from major companies like Google and GitHub. There are over 100 contributors in total, though it looks like a smaller group of core maintainers are responsible for most of the recent activity. The repository is very active—issues are opened and closed regularly, pull requests are merged frequently, and there’s ongoing discussion on feature development and bug fixes.
 
-If I wanted to get involved with the project, I’d start by reading the CONTRIBUTING.md file in the repository. It gives clear instructions for how to set up the project, submit changes, and find beginner-friendly tasks (tagged as “good first issue”). The documentation is well-written and includes technical details like how to install and use the tool, what each security check does, and how to interpret the results.
+If I wanted to get involved with the project, I’d start by reading the CONTRIBUTING.md file in the repository. It gives clear instructions for how to set up the project, submit changes, and find beginner-friendly tasks. The documentation is well-written and includes technical details like how to install and use the tool, what each security check does, and how to interpret the results.
 
 Issues and feature requests are tracked through GitHub, and the maintainers are pretty responsive. While there are a good number of open issues, most of them have comments or are assigned to someone, which shows that things are being actively worked on. Installing the Scorecard tool was fast—it took less than 10 minutes to get it running from the command line using the instructions provided.
 
