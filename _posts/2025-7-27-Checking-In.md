@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Goals Checking In 🪄
