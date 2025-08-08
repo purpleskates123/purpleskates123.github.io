@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Reflections on the Catalyst Program 🤳
+title: Final Reflections on the Catalyst Program 🤳🏾
 ---
 
 
